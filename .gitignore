@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.plan
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+kubeconfig
